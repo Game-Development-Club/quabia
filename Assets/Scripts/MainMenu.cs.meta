@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: ed9cad4f48fee15468cefb50faf1b0ea
+<<<<<<< Updated upstream:Assets/Scripts/MainMenu.cs.meta
+guid: 53f60bd560555ac41a8fd42ec507a5c2
+=======
+guid: f9196b52ea9897b42ab1db0f9086f3f0
+>>>>>>> Stashed changes:Assets/Scripts/TestScript.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
